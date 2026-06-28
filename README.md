@@ -4,7 +4,7 @@ A full-wave bridge rectifier circuit designed in KiCad, converting AC mains inpu
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This PCB implements a classic **full-wave bridge rectifier** using four 1N4007 diodes, a 1000µF smoothing capacitor, and a power-on LED indicator. Designed as a foundational power electronics project to learn KiCad schematic capture and PCB layout.
 
@@ -24,24 +24,6 @@ This PCB implements a classic **full-wave bridge rectifier** using four 1N4007 d
 | EDA Tool | KiCad |
 
 ---
-
-## 🗂️ Repository Structure
-
-```
-ac-to-dc-converter/
-├── README.md
-├── schematic/
-│   └── ac-dc-converter.kicad_sch
-├── pcb/
-│   └── ac-dc-converter.kicad_pcb
-├── gerbers/
-│   └── (manufacturing files)
-├── images/
-│   ├── schematic.png
-│   ├── pcb-layout.png
-│   └── 3d-render.png
-└── bom.csv
-```
 
 ---
 
@@ -64,7 +46,7 @@ AC Input (J1)
         │
         ├──── R1 (2.2k) + D5 (LED) → Power indicator
         │
-        ├──── R2 (10k) → Bleeder resistor (discharges cap safely)
+        ├──── R2 (10k) → resistor (discharges cap safely)
         │
         ▼
   DC Output (J2)
