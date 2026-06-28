@@ -102,7 +102,7 @@ AC Input (J1)
 
 
 ### 3D Render
-![3D Render](images/3d-render.png)<img width="976" height="815" alt="Screenshot 2026-06-28 101251" src="https://github.com/user-attachments/assets/d5ecfc72-afd1-4b93-babe-26cd58ffd542" />
+![3D Render](<img width="976" height="815" alt="Screenshot 2026-06-28 101251" src="https://github.com/user-attachments/assets/d5ecfc72-afd1-4b93-babe-26cd58ffd542" />)
 
 
 ---
