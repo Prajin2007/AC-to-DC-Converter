@@ -94,15 +94,15 @@ AC Input (J1)
 ## 🖼️ Screenshots
 
 ### Schematic
-![Schematic](images/schematic.png)<img width="822" height="486" alt="Screenshot 2026-06-28 101313" src="https://github.com/user-attachments/assets/786e667d-b55e-4c79-a09a-5e58bed32cb9" />
+<img width="822" height="486" alt="Screenshot 2026-06-28 101313" src="https://github.com/user-attachments/assets/786e667d-b55e-4c79-a09a-5e58bed32cb9" />
 
 
 ### PCB Layout
-![PCB Layout](images/pcb-layout.png)<img width="797" height="583" alt="Screenshot 2026-06-28 101259" src="https://github.com/user-attachments/assets/b8a411c8-714d-462c-8fd7-dc3d87265f0b" />
+<img width="797" height="583" alt="Screenshot 2026-06-28 101259" src="https://github.com/user-attachments/assets/b8a411c8-714d-462c-8fd7-dc3d87265f0b" />
 
 
 ### 3D Render
-![3D Render](images/3d-render.png)<img width="976" height="815" alt="Screenshot 2026-06-28 101251" src="https://github.com/user-attachments/assets/53008a4c-4771-4e44-af1e-919c189a51b3" />
+<img width="976" height="815" alt="Screenshot 2026-06-28 101251" src="https://github.com/user-attachments/assets/53008a4c-4771-4e44-af1e-919c189a51b3" />
 
 
 ---
