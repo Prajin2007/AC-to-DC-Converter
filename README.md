@@ -23,7 +23,6 @@ This PCB implements a classic **full-wave bridge rectifier** using four 1N4007 d
 | Bleeder Resistor | 10k (R2) |
 | EDA Tool | KiCad |
 
----
 
 ---
 
