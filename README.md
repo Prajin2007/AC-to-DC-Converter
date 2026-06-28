@@ -94,15 +94,15 @@ AC Input (J1)
 ## 🖼️ Screenshots
 
 ### Schematic
-![Schematic](images/schematic.png)<img width="822" height="486" alt="Screenshot 2026-06-28 101313" src="https://github.com/user-attachments/assets/2ece2ea6-224e-4a44-a9fa-0be3adaed0fb" />
+![Schematic](images/schematic.png)<img width="822" height="486" alt="Screenshot 2026-06-28 101313" src="https://github.com/user-attachments/assets/786e667d-b55e-4c79-a09a-5e58bed32cb9" />
 
 
 ### PCB Layout
-![PCB Layout](images/pcb-layout.png)<img width="797" height="583" alt="Screenshot 2026-06-28 101259" src="https://github.com/user-attachments/assets/4936ee7f-1a56-4dca-9053-bed96dc9b7a3" />
+![PCB Layout](images/pcb-layout.png)<img width="797" height="583" alt="Screenshot 2026-06-28 101259" src="https://github.com/user-attachments/assets/b8a411c8-714d-462c-8fd7-dc3d87265f0b" />
 
 
 ### 3D Render
-![3D Render](<img width="976" height="815" alt="Screenshot 2026-06-28 101251" src="https://github.com/user-attachments/assets/d5ecfc72-afd1-4b93-babe-26cd58ffd542" />)
+![3D Render](images/3d-render.png)<img width="976" height="815" alt="Screenshot 2026-06-28 101251" src="https://github.com/user-attachments/assets/53008a4c-4771-4e44-af1e-919c189a51b3" />
 
 
 ---
@@ -135,4 +135,4 @@ B.Tech Electronics and Instrumentation Engineering, VIT Vellore
 
 ---
 
-*First KiCad PCB design — part of my electronics learning journey.
+*First KiCad PCB design — part of my electronics learning journey.*
